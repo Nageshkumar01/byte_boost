@@ -3,6 +3,7 @@ import { useState } from "react";
 import Login from "./Login";
 import Logout from "./Logout";
 import { useAuth } from "../context/AuthProvider";
+import { Link } from "react-router-dom";
 
 function Navbar() {
   const [authUser, setAuthUser] = useAuth();
@@ -45,10 +46,12 @@ function Navbar() {
         <a href="/course">Course</a>
       </li>
       <li>
-        <a>Contact</a>
+        <Link to="/contact">Contact</Link>
       </li>
+
       <li>
-        <a>About</a>
+       <Link to="/about">About</Link>
+
       </li>
     </>
   );
@@ -91,7 +94,10 @@ function Navbar() {
                 {navItems}
               </ul>
             </div>
-            <a className=" text-2xl font-bold cursor-pointer">bookStore</a>
+            <a className="text-2xl font-bold cursor-pointer text-blue-600 dark:text-blue-400">
+  ByteBoost
+</a>
+
           </div>
           <div className="navbar-end space-x-3">
             <div className="navbar-center hidden lg:flex">
