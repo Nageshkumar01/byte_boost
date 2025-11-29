@@ -56,10 +56,10 @@ Byte Boost solves this by providing:
 ---
 
 ## 🖼 **Screenshots**
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0af0000e-538d-4e92-a323-51d06cf561f7" />
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c6f0c78f-7edf-4789-aaec-1c9cbef623b5" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d136b441-22e6-490f-ab89-3e11979e4a76" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0af0000e-538d-4e92-a323-51d06cf561f7" />
 
 
 
