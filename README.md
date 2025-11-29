@@ -122,7 +122,6 @@ The app will run at  your local host
 * Admin panel for adding new books
 * User login + bookmark feature
 * Backend integration to store dynamic data
-* Upload your own lecture notes
 
 ---
 
